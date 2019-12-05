@@ -1,4 +1,4 @@
-# table_23
+# Flutter table example
 
 A new Flutter project.
 
